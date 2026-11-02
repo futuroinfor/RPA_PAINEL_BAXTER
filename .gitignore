@@ -1,0 +1,46 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+# ===== Ambientes virtuais =====
+.venv/
+venv/
+env/
+ENV/
+# ===== Segredos e configurações locais =====
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+token.json
+secrets.json
+# ===== Saídas da automação =====
+output/
+logs/
+*.log
+downloads/
+screenshots/
+*.xlsx
+*.csv
+*.pdf
+# ===== Ferramentas e editores =====
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+# ===== Testes e cobertura =====
+.pytest_cache/
+.coverage
+htmlcov/
+# ===== Outros =====
+*.tmp
+*.bak

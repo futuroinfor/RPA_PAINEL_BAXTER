@@ -1,0 +1,7 @@
+hostPN=HMST-PN08A01
+atrasoNaExecucao=0
+pavimento=PAV08
+descricao=8º - Posto 1
+secao=02
+url=http://localhost:8000/api/v1/monitoramento/
+paineis=BXT
